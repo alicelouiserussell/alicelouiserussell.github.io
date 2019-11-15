@@ -12,26 +12,29 @@
     </head>
 
     <body>
+        
        <nav>
         <div class="nav-wrapper">
             <a href="#" class="brand-logo">Alice Russell</a>
             <ul id="nav-mobile" class="right hide-on-med-and-down">
-                <li><a href="">Work</a></li>
-                <li><a href="">Resume</a></li>
+                <li><a class='dropdown-trigger' href='#' data-target='dropdown1'>Work</a></li>
+                    <ul id='dropdown1' class='dropdown-content'>
+                        <li><a href="#!">one</a></li>
+                        <li><a href="#!">two</a></li>
+                    </ul>
+                <li><a href="./docs/Alice Russell Resume 2019.pages">Resume</a></li>
             </ul>
         </div>
         </nav>
 
         <div class="container">
-
             <div class="row" id="whoIAm">
                 <div class="col 12">
                     <h3>Who I am:</h3>
                 </div>
             </div>
             
-            
-            <div class="row">
+            <div class="row"> 
                 <div class="col s12 m6 l8">
                     <img src="./images/im-in.jpg">
                 </div>
@@ -42,6 +45,7 @@
                 </div>
             </div>
         </div>
+    
+    <script rel="text/script" src="script.js">
     </body>
-
 </html>
