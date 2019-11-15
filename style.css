@@ -1,0 +1,11 @@
+.nav-wrapper {
+    background-color: white;
+}
+
+nav .brand-logo {
+    color: gray;
+}
+
+nav ul a {
+    color: gray;
+}
