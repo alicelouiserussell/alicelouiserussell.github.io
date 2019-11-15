@@ -9,3 +9,18 @@ nav .brand-logo {
 nav ul a {
     color: gray;
 }
+
+#whoIAm {
+    color: gray;
+}
+
+img {
+    width: 556px;
+    height: 600px;
+}
+
+.card-panel {
+    height: 600px;
+    margin-top: 0px;
+    color: gray;
+}
