@@ -16,7 +16,7 @@ nav ul a {
     color: gray;
 }
 
-img {
+#im-in {
     margin-top: 50px;
     width: 456px;
     height: 500px;
@@ -39,3 +39,12 @@ img {
 #email {
     padding: 3px;
 }
+
+.card .card-image img {
+    height: 200x;
+}
+
+.projects {
+    padding-top: 30px;
+}
+
