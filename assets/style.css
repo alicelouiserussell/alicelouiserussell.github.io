@@ -18,13 +18,13 @@ nav ul a {
 
 #im-in {
     margin-top: 50px;
-    width: 456px;
-    height: 500px;
+    width: 100%;
+    height: 415px;
 }
 
 .card-panel {
     margin-top: 50px;
-    height: 500px;
+    height: 415px;
     color: gray;
 }
 
